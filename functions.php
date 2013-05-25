@@ -27,5 +27,8 @@ function twentytwelve_content_nav( $html_id ) {
 add_action('wp_enqueue_scripts', 'twtwFFWD_queuing', 11 );
 add_action('twentytwelve_credits', 'twtwFFWD_credits' );
 add_action('wp_footer', 'twtwFFWD_navigation' );
+
+<!--
 add_action('twentytwelve_content_nav_new', 'twentytwelve_content_nav' );
+-->
 ?>
