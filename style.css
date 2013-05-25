@@ -292,31 +292,31 @@ footer.entry-meta,footer.entry-meta a{color:#444;font-size:10pt}
 }
 
 
-/*my custom css*/
-.dashed_border {
-	background-color:#F7F9FA;
-	border:1px dashed #8CACBB;
-	margin:0 0 15px 0;
-	padding:4px 2px;
-}
+/* /\*my custom css*\/ */
+/* .dashed_border { */
+/* 	background-color:#F7F9FA; */
+/* 	border:1px dashed #8CACBB; */
+/* 	margin:0 0 15px 0; */
+/* 	padding:4px 2px; */
+/* } */
 
-/*creative commons*/
-.cc_box {
-	background-color:#F7F9FA;
-	border:1px dashed #8CACBB;
-	margin:55px 0px 0px 0px;
-	/*display: table;*/
-	text-align: center;
-	vertical-align: middle;
-}
+/* /\*creative commons*\/ */
+/* .cc_box { */
+/* 	background-color:#F7F9FA; */
+/* 	border:1px dashed #8CACBB; */
+/* 	margin:55px 0px 0px 0px; */
+/* 	/\*display: table;*\/ */
+/* 	text-align: center; */
+/* 	vertical-align: middle; */
+/* } */
 
-/* from http://ergoemacs.org/emacs/elisp_basics.html*/
-kbd {
-	padding-left: .25em;
-	padding-right: .25em;
-	font-family: sans-serif;
-	border: solid 1px #C2C2C2;
-	border-radius: 4px;
-	background-color: #F0F0F0;
-	box-shadow: 1px 1px silver;
-}
+/* /\* from http://ergoemacs.org/emacs/elisp_basics.html*\/ */
+/* kbd { */
+/* 	padding-left: .25em; */
+/* 	padding-right: .25em; */
+/* 	font-family: sans-serif; */
+/* 	border: solid 1px #C2C2C2; */
+/* 	border-radius: 4px; */
+/* 	background-color: #F0F0F0; */
+/* 	box-shadow: 1px 1px silver; */
+/* } */
