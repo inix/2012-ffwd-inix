@@ -1,0 +1,55 @@
+--- /home/zhongyj/2012.ffwd/style.css	2012-12-17 17:12:07.000000000 +0800
++++ style.css	2013-05-26 11:04:03.888536564 +0800
+@@ -79,8 +79,8 @@ img.wp-smiley,.rsswidget img{border:0;bo
+ .author.archive .author-info{border-top:0;margin:0 0 48px;margin:0 0 3.428571429rem}
+ .author.archive .author-avatar{margin-top:0}
+ html{font-size:87.5%}
+-body{font-size:14px;font-size:1rem;font-family:Helvetica,Arial,sans-serif;text-rendering:optimizeLegibility;color:#444}
+-body.custom-font-enabled{font-family:"Open Sans",Helvetica,Arial,sans-serif}
++body{font-size:14px;font-size:1rem;font-family:Helvetica,Arial,sans-serif,Microsoft Yahei,Georgia,serif;text-rendering:optimizeLegibility;color:#444}
++body.custom-font-enabled{font-family:"Open Sans",Helvetica,Arial,sans-serif,Microsoft Yahei,Georgia,serif}
+ a{outline:0;color:#21759b}
+ a:hover{color:#0f3647}
+ .assistive-text,.site .screen-reader-text{position:absolute!important;clip:rect(1px,1px,1px,1px)}
+@@ -265,7 +265,7 @@ body.template-front-page .site-content,b
+ .commentlist .children{margin-left:48px;margin-left:3.428571429rem}
+ }
+ @media screen and (min-width:960px){body{background-color:#e6e6e6}
+-body .site{padding:0 40px;padding:0 2.857142857rem;margin-top:48px;margin-top:3.428571429rem;margin-bottom:48px;margin-bottom:3.428571429rem;box-shadow:0 2px 6px rgba(100,100,100,0.3)}
++body .site{padding:0 40px;padding:0 2.857142857rem;margin-top:48px;margin-top:3.428571429rem;margin-bottom:48px;margin-bottom:3.428571429rem;box-shadow:0 2px 6px rgba(100,100,100,0.3);border-radius: 8px;-moz-border-radius: 8px;-webkit-border-radius: 8px}
+ body.custom-background-empty{background-color:#fff}
+ body.custom-background-empty .site,body.custom-background-white .site{padding:0;margin-top:0;margin-bottom:0;box-shadow:none}
+ }
+@@ -291,3 +291,32 @@ footer.entry-meta,footer.entry-meta a{co
+ .comments-area article header cite,.comments-area article header time{margin-left:50px;margin-left:3.57142857rem}
+ }
+ 
++
++/* /\*my custom css*\/ */
++/* .dashed_border { */
++/* 	background-color:#F7F9FA; */
++/* 	border:1px dashed #8CACBB; */
++/* 	margin:0 0 15px 0; */
++/* 	padding:4px 2px; */
++/* } */
++
++/* /\*creative commons*\/ */
++/* .cc_box { */
++/* 	background-color:#F7F9FA; */
++/* 	border:1px dashed #8CACBB; */
++/* 	margin:55px 0px 0px 0px; */
++/* 	/\*display: table;*\/ */
++/* 	text-align: center; */
++/* 	vertical-align: middle; */
++/* } */
++
++/* /\* from http://ergoemacs.org/emacs/elisp_basics.html*\/ */
++/* kbd { */
++/* 	padding-left: .25em; */
++/* 	padding-right: .25em; */
++/* 	font-family: sans-serif; */
++/* 	border: solid 1px #C2C2C2; */
++/* 	border-radius: 4px; */
++/* 	background-color: #F0F0F0; */
++/* 	box-shadow: 1px 1px silver; */
++/* } */
