@@ -17,7 +17,7 @@ add_action('twentytwelve_credits', 'twtwFFWD_credits' );
 add_action('wp_footer', 'twtwFFWD_navigation' );
 ?>
 
-///* <?php */
+
 /* // Use WP-PageNavi when it's active */
 /* function twentytwelve_content_nav( $nav_id ) { */
 /* 	global $wp_query; */
