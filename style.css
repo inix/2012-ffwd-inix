@@ -132,7 +132,7 @@ article.sticky .featured-post{border-top:4px double #ededed;border-bottom:4px do
 .entry-content h4,.comment-content h4{font-size:14px;font-size:1rem;line-height:1.846153846}
 .entry-content h5,.comment-content h5{font-size:13px;font-size:.928571429rem;line-height:1.846153846}
 .entry-content h6,.comment-content h6{font-size:12px;font-size:.857142857rem;line-height:1.846153846}
-.entry-content p,.entry-summary p,.comment-content p,.mu_register p{margin:0 0 24px;margin:0 0 1.714285714rem;line-height:1.714285714}
+.entry-content p,.entry-summary p,.comment-content p,.mu_register p{/*margin:0 0 24px;margin:0 0 1.714285714rem;line-height:1.714285714*/}
 .entry-content ol,.comment-content ol,.entry-content ul,.comment-content ul,.mu_register ul{margin:0 0 24px;margin:0 0 1.714285714rem;line-height:1.714285714}
 .entry-content ul ul,.comment-content ul ul,.entry-content ol ol,.comment-content ol ol,.entry-content ul ol,.comment-content ul ol,.entry-content ol ul,.comment-content ol ul{margin-bottom:0}
 .entry-content ul,.comment-content ul,.mu_register ul{list-style:disc outside}
