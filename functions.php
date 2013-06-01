@@ -15,10 +15,7 @@ function twtwFFWD_navigation() {
 add_action('wp_enqueue_scripts', 'twtwFFWD_queuing', 11 );
 add_action('twentytwelve_credits', 'twtwFFWD_credits' );
 add_action('wp_footer', 'twtwFFWD_navigation' );
-?>
-
-
-<?php
+?><?php
 // Remove the ... from excerpt and change the text
 function change_excerpt_more()
 {
@@ -30,4 +27,4 @@ function change_excerpt_more()
   add_filter('excerpt_more', 'new_excerpt_more');
 }
 add_action('after_setup_theme', 'change_excerpt_more');
-
+?>
