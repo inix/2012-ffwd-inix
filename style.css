@@ -320,3 +320,41 @@ kbd {
 	background-color: #F0F0F0;
 	box-shadow: 1px 1px silver;
 }
+
+/* WP-PageNavi CSS ------------------- */
+.wp-pagenavi {
+    clear: both;
+    margin-bottom: 20px;
+}
+.wp-pagenavi a, .wp-pagenavi span {
+    text-decoration: none;
+    border: 1px solid #BFBFBF;
+    padding: 5px 8px;
+    margin: 2px;    
+}
+.wp-pagenavi a:hover, .wp-pagenavi span.current {
+    border-color: #000;
+}
+.wp-pagenavi span.extend { 
+    background:none;
+    border:none;
+}
+.wp-pagenavi a, .wp-pagenavi span.current, .wp-pagenavi span.pages {
+    border:1px solid #ccc;
+ 
+}
+.wp-pagenavi a:hover, .wp-pagenavi span.current {
+    border-color: #686868;
+    color:#333333;
+}
+.wp-pagenavi a,.wp-pagenavi span.current,.wp-pagenavi span.pages {
+    background: rgb(239, 239, 239);
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+.wp-pagenavi a:hover,.wp-pagenavi span.current {
+    -webkit-box-shadow: 0 1px 1px #666;
+    -moz-box-shadow: 0 1px 1px #666;
+    box-shadow: 0 1px 1px #666;
+}
