@@ -28,4 +28,10 @@ function change_excerpt_more()
   add_filter('excerpt_more', 'new_excerpt_more');
 }
 add_action('after_setup_theme', 'change_excerpt_more');
+
+// Changing excerpt length
+function new_excerpt_length($length) {
+  return 100;
+}
+add_filter('excerpt_length', 'new_excerpt_length');
 ?>
