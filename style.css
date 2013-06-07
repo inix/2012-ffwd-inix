@@ -237,7 +237,7 @@ img#wpstats{display:block;margin:0 auto 24px;margin:0 auto 1.714285714rem}
 .site-content{float:left;width:65.104166667%}
 body.template-front-page .site-content,body.single-attachment .site-content,body.full-width .site-content{width:100%}
 .widget-area{float:right;width:26.041666667%}
-.site-header h1,.site-header h2{text-align:left}
+.site-header h1,.site-header h2{text-align:center}
 .site-header h1{font-size:26px;font-size:1.857142857rem;line-height:1.846153846;margin-bottom:0}
 .main-navigation ul.nav-menu,.main-navigation div.nav-menu>ul{border-bottom:1px solid #ededed;border-top:1px solid #ededed;display:inline-block!important;text-align:left;width:100%}
 .main-navigation ul{margin:0;text-indent:0}
