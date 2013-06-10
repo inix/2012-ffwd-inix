@@ -248,7 +248,7 @@ body.template-front-page .site-content,body.single-attachment .site-content,body
 .main-navigation li ul{display:none;margin:0;padding:0;position:absolute;top:100%;z-index:1}
 .main-navigation li ul ul{top:0;left:100%}
 .main-navigation ul li:hover>ul{border-left:0;display:block}
-.main-navigation li ul li a{background:#efefef;border-bottom:1px solid #ededed;display:block;font-size:11px;font-size:.785714286rem;line-height:2.181818182;padding:8px 10px;padding:.571428571rem .714285714rem;width:180px;width:12.85714286rem;white-space:normal}
+.main-navigation li ul li a{background:#efefef;border-bottom:1px solid #ededed;display:block;font-size:11px;font-size:.485714286rem;line-height:1.081818182;padding:8px 10px;padding:.571428571rem .714285714rem;width:180px;width:12.85714286rem;white-space:normal}
 .main-navigation li ul li a:hover{background:#e3e3e3;color:#444}
 .main-navigation .current-menu-item>a,.main-navigation .current-menu-ancestor>a,.main-navigation .current_page_item>a,.main-navigation .current_page_ancestor>a{color:#636363;font-weight:bold}
 .menu-toggle{display:none}
