@@ -1,5 +1,6 @@
 === 2012.FFWD ===
 Contributors: futtta
+Modifier: Inix Jhon
 Tags: high performance, theme, child theme, twenty twelve
 Requires at least: 3.5
 Tested up to: 3.5
